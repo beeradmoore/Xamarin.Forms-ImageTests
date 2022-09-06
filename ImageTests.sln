@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTests.iOS.Nuke", "Imag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTests.iOS.Stock", "ImageTests\ImageTests.iOS.Stock\ImageTests.iOS.Stock.csproj", "{A280BB77-8359-4CFB-978F-9E53065FA1B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTests.iOS.SDWebImage", "ImageTests\ImageTests.iOS.SDWebImage\ImageTests.iOS.SDWebImage.csproj", "{48461AEA-2E36-11ED-A261-0242AC120002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,18 @@ Global
 		{A280BB77-8359-4CFB-978F-9E53065FA1B9}.Debug|iPhone.Build.0 = Debug|iPhone
 		{A280BB77-8359-4CFB-978F-9E53065FA1B9}.Release|iPhone.ActiveCfg = Release|iPhone
 		{A280BB77-8359-4CFB-978F-9E53065FA1B9}.Release|iPhone.Build.0 = Release|iPhone
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Release|Any CPU.ActiveCfg = Release|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Release|Any CPU.Build.0 = Release|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Debug|iPhone.Build.0 = Debug|iPhone
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Release|iPhone.ActiveCfg = Release|iPhone
+		{48461AEA-2E36-11ED-A261-0242AC120002}.Release|iPhone.Build.0 = Release|iPhone
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
