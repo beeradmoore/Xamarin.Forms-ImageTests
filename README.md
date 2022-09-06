@@ -5,6 +5,7 @@ Image loading libraries tested on iOS:
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) (stock)
 - [FFImageLoading](https://github.com/luberda-molinet/FFImageLoading)
 - [Xamarin.Nuke](https://github.com/roubachof/NukeProxy) (via [Xamarin.Forms.Nuke](https://github.com/roubachof/Xamarin.Forms.Nuke))
+- [Xamarin.SDWebImage](https://www.nuget.org/packages/Xamarin.SDWebImage/)
 
 Image loading libraries tested on Android:
 - [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) (stock)
